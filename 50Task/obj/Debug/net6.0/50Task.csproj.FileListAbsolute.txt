@@ -1,0 +1,15 @@
+C:\Users\uliamusalina\Desktop\Задача 50\Lesson\50Task\bin\Debug\net6.0\50Task.exe
+C:\Users\uliamusalina\Desktop\Задача 50\Lesson\50Task\bin\Debug\net6.0\50Task.deps.json
+C:\Users\uliamusalina\Desktop\Задача 50\Lesson\50Task\bin\Debug\net6.0\50Task.runtimeconfig.json
+C:\Users\uliamusalina\Desktop\Задача 50\Lesson\50Task\bin\Debug\net6.0\50Task.dll
+C:\Users\uliamusalina\Desktop\Задача 50\Lesson\50Task\bin\Debug\net6.0\50Task.pdb
+C:\Users\uliamusalina\Desktop\Задача 50\Lesson\50Task\obj\Debug\net6.0\50Task.csproj.AssemblyReference.cache
+C:\Users\uliamusalina\Desktop\Задача 50\Lesson\50Task\obj\Debug\net6.0\50Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliamusalina\Desktop\Задача 50\Lesson\50Task\obj\Debug\net6.0\50Task.AssemblyInfoInputs.cache
+C:\Users\uliamusalina\Desktop\Задача 50\Lesson\50Task\obj\Debug\net6.0\50Task.AssemblyInfo.cs
+C:\Users\uliamusalina\Desktop\Задача 50\Lesson\50Task\obj\Debug\net6.0\50Task.csproj.CoreCompileInputs.cache
+C:\Users\uliamusalina\Desktop\Задача 50\Lesson\50Task\obj\Debug\net6.0\50Task.dll
+C:\Users\uliamusalina\Desktop\Задача 50\Lesson\50Task\obj\Debug\net6.0\refint\50Task.dll
+C:\Users\uliamusalina\Desktop\Задача 50\Lesson\50Task\obj\Debug\net6.0\50Task.pdb
+C:\Users\uliamusalina\Desktop\Задача 50\Lesson\50Task\obj\Debug\net6.0\50Task.genruntimeconfig.cache
+C:\Users\uliamusalina\Desktop\Задача 50\Lesson\50Task\obj\Debug\net6.0\ref\50Task.dll
